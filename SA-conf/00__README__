@@ -1,0 +1,36 @@
+  _____   ______            _____    __  __  ______
+ |  __ \ |  ____|    /\    |  __ \  |  \/  ||  ____|
+ | |__) || |__      /  \   | |  | | | \  / || |__
+ |  _  / |  __|    / /\ \  | |  | | | |\/| ||  __|
+ | | \ \ | |____  / ____ \ | |__| | | |  | || |____
+ |_|  \_\|______|/_/    \_\|_____/  |_|  |_||______|
+ __________________________________________________________________________________
+|__________________________________________________________________________________|
+
+SA-CONF
+Identification of structurally conserved and flexible regions of a protein.
+ __________________________________________________________________________________
+|__________________________________________________________________________________|
+
+Leslie Regad, Jean-Baptiste Cheron, Caroline Senac, Dhoha Triki, Delphine Flatters, Anne-Claude Camproux
+ __________________________________________________________________________________
+|__________________________________________________________________________________|
+
+** HOW TO RUN
+
+1 ) Requirements
+    - python 2.7
+        -- Packages: python-dev python-biopython 
+    - clustalw / tcoffee
+
+2 ) Instructions
+    run saconf.x64 or saconf.x32 for your own architecture.
+    - Arguments:
+    usage: saconf_LR.py [-h] -i IDFILE [-m METHOD] [-p PDBPATH] [-a ALIGNFILE]
+                    [-o OUTPUT] [-u UNIPROT]
+    argument -i/--IDfile is required
+ __________________________________________________________________________________
+|__________________________________________________________________________________|
+
+For any further information, please contact leslie.regad@univ-paris-diderot.fr
+

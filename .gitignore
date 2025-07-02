@@ -1,6 +1,6 @@
-*.pdf
+# cache
 __pycache__/
-saconf_out/
 *.pyc
-*_old.py
-outputs/*/
+# outputs
+saconf_out/
+
