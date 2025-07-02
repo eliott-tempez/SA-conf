@@ -1,17 +1,6 @@
 # cache
 __pycache__/
 *.pyc
-
-# Old scripts
-*_old.py
-
 # outputs
 saconf_out/
-
-# Biblio
-biblio/
-
-# Executable
-dist/
-saconf_LR_2025-01-20.pkg
 

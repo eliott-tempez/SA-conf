@@ -1,5 +1,0 @@
-Number of optimal clusters: 2
-
-Cluster 1: 1SDT_A, 2IEN_A, 2Z4O_A, 3NU3_A
-Cluster 2: 3S45_A, 3S45_B, 3EC0_A
-
