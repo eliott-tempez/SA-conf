@@ -1,6 +1,10 @@
 # cache
 __pycache__/
 *.pyc
+*.spec
 # outputs
 saconf_out/
+# Binaries
+dist/
+build/
 
